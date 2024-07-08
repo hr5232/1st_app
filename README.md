@@ -1,2 +1,2 @@
 # 1st_app
-``` ayush dangol ```
+``` This is my very first app made using flutter(dart) ```
